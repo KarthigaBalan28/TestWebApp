@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s39eb2d085fd4713b71858bf4d55d20f",
+    "_text_": "swift",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.33%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s7d0ac6715754c04ab097928490d1064"
+    },
+    "displaytext": true,
+    "id": "btnPatSwift",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f55552ed5f0b459aac11640d4e71ef32",
+    "name": "kony.ui.Button",
+    "parent": "flxPatButtons",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.hid.txn.swift",
+    "wType": "Button",
+    "zindex": 1
+}

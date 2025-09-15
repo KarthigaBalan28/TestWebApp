@@ -1,0 +1,40 @@
+{
+    "AS_Label_ff6527f580e04479a99d0a3c5198e85f": {
+        "id": "AS_Label_ff6527f580e04479a99d0a3c5198e85f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "KUID": "j8a487afc8ad430da8847c1079260ce2",
+            "platform": "",
+            "type": "templates",
+            "name": "CopytmpDevicesSegment2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__g708bc43e2f6419990c7aa2fdee476be",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onEditTouchEnd",
+            "display": "onEditTouchEnd",
+            "inputparams": [{
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

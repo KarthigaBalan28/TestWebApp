@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3dd323e34ea455ca288fa01d7601759",
+    "_text_": "Generate Qr",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": null,
+    "id": "btnGenerate",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f744c901b91d429daf1f5ee4171a7312",
+    "name": "kony.ui.Button",
+    "parent": "flxScanToApproveMain",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.hid.login.generateQr",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "136dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbea14e466be439f8689043b9a0c99fe",
+    "_text_": "Delete Failed",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "49.39%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblHeaderFailure",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b481e84b6643403cb1d0883d96a2267c",
+    "name": "kony.ui.Label",
+    "parent": "flxPaymentSFailureHeader",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.hid.usermanagement.deleteFailed",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

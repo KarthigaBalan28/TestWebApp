@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s24c92fc23b14f5484b693ee9b8a9b35",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 0,
+    "data": {
+        "codeHeight": 120,
+        "codeWidth": 120,
+        "colorDark": "00539b",
+        "correctLevel": "1"
+    },
+    "id": "QRCodeGenerator",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d49765316e694092a78e72f712b2ab3b",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxQRCode",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "ue9ec24e69ce4f3ea1df76bbb8776224",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

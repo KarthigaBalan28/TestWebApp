@@ -1,0 +1,35 @@
+{
+    "classname": "userAdministration",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [
+                {
+                    "kuid": "df0200a301dd49fe99112e5876b164e8",
+                    "propertyKey": "btnLogin",
+                    "srcWgtKUID": "i67a0358423245adbc628ba52efe217c"
+                }
+            ],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.hid",
+    "version": "1.0.0"
+}

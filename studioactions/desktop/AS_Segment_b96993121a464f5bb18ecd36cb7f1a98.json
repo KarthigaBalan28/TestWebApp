@@ -1,0 +1,30 @@
+{
+    "AS_Segment_b96993121a464f5bb18ecd36cb7f1a98": {
+        "id": "AS_Segment_b96993121a464f5bb18ecd36cb7f1a98",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_bd8268bec67c4b3b83f00594b26dfcce",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "callDeleteFunction",
+            "display": "callDeleteFunction",
+            "inputparams": [{
+                "name": "rowNumber",
+                "value": " rowNumber"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

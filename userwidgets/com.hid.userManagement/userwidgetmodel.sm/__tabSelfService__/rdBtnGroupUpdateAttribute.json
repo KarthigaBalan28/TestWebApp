@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9e81f6e3a56494f85ebb3f285bffb89",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "rdBtnGroupUpdateAttribute",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "fa62996e1a454d468d1dc553a1974b36",
+    "masterdata": [
+        [
+            "email",
+            "Email"
+        ],
+        [
+            "mobile",
+            "Mobile"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "flxUpdateAttribute",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "email",
+    "selectedkeyvalue": [
+        "email",
+        "Email"
+    ],
+    "size": 18,
+    "tabpaneId": "tabSelfService",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

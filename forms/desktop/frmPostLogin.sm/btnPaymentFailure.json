@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s61373a5ac8745ea9617704a48e94825",
+    "_text_": "OK",
+    "_top_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s7d0ac6715754c04ab097928490d1064"
+    },
+    "displaytext": true,
+    "id": "btnPaymentFailure",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "beb412c1649c4020a4c1218cd21dc170",
+    "name": "kony.ui.Button",
+    "parent": "flxPaymentMainFailure",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.hid.common.ok",
+    "wType": "Button",
+    "zindex": 1
+}

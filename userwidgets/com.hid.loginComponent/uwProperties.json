@@ -1,0 +1,334 @@
+{
+    "classname": "loginComponent",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "c9713bc6aa504174b7f6cd49de7fedfa",
+                    "paramList": [],
+                    "propertyKey": "setContext",
+                    "pw": {
+                        "displayName": "setContext",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "i860eb1f399c4247829b7d44e30772d4",
+                    "paramList": [],
+                    "propertyKey": "resetUI",
+                    "pw": {
+                        "displayName": "resetUI",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "ea286e4e7e17425085fbde8fd0a275d0",
+                    "paramList": [],
+                    "propertyKey": "getUserName",
+                    "pw": {
+                        "displayName": "getUserName",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "h89a10d037b14463b863734271136a96",
+                    "paramList": [],
+                    "propertyKey": "logoutOnClick",
+                    "pw": {
+                        "displayName": "logoutOnClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "fab7d65b05af4243812bf3841c387e3b",
+                    "paramList": [],
+                    "propertyKey": "confirmationAlert",
+                    "pw": {
+                        "displayName": "confirmationAlert",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "f27c9b7dbb8d4783a4ebeaf156effe30",
+                    "paramList": [],
+                    "propertyKey": "getRmsSessionId",
+                    "pw": {
+                        "displayName": "getRmsSessionId",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "d861522098824686af04fc8ed9fac8d3",
+                    "paramList": [],
+                    "propertyKey": "resetQrUi",
+                    "pw": {
+                        "displayName": "resetQrUi",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "i00183668f164a6d8742471733c11425",
+                    "paramList": [
+                        {
+                            "name": "userprofileJSON"
+                        }
+                    ],
+                    "propertyIndex": 1,
+                    "propertyKey": "onSuccessCallback",
+                    "pw": {
+                        "displayName": "onSuccessCallback",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "g888cb00ddf14d06a21f89fde2e9d3bc",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "onFailureCallback",
+                    "pw": {
+                        "displayName": "onFailureCallback",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "c27f7db34de84593ba6559194d3908f5",
+                    "paramList": [],
+                    "propertyIndex": 3,
+                    "propertyKey": "dismissLoading",
+                    "pw": {
+                        "displayName": "dismissLoading",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "f505e49333e445d6b8fe3e7cf6ddaf97",
+                    "paramList": [],
+                    "propertyIndex": 4,
+                    "propertyKey": "showLoading",
+                    "pw": {
+                        "displayName": "showLoading",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "cf35fe8502104e748bcbcb901dc1399a",
+                    "paramList": [],
+                    "propertyIndex": 5,
+                    "propertyKey": "changeContext",
+                    "pw": {
+                        "displayName": "changeContext",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": true,
+                    "group": "General",
+                    "kuid": "g66f1093808b4bb890dde36e9f088db4",
+                    "originalPropertyKey": "isRMSEnabled",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 3,
+                    "propertyKey": "isRMSEnabled",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "isRMSEnabled",
+                        "uiRepresentation": "Label-Radiobuttongroup"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "boolean",
+                    "value": "true/false"
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "C8hDRqP6KY",
+                    "group": "General",
+                    "kuid": "b1ae47c259594e5caaeda8f9fe7e7f96",
+                    "originalPropertyKey": "tmCookieTag",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 4,
+                    "propertyKey": "tmCookieTag",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "tmCookieTag",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "TS01d4cc80",
+                    "group": "General",
+                    "kuid": "j632b7f40ff04ec8a1bfd3ccf78f62a8",
+                    "originalPropertyKey": "tmCookieSid",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 5,
+                    "propertyKey": "tmCookieSid",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "tmCookieSid",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "{\n\"customAdaptiveAuth\": [\n{\n\"authType\": \"OTP_EML\",\n\"lowerLimit\": \"5\",\n\"upperLimit\": \"8\"\n},\n{\n\"authType\": \"APPROVE\",\n\"lowerLimit\": \"8\",\n\"upperLimit\": \"10\"\n}\n],\n\"default\": \"APPROVE\"\n}",
+                    "group": "General",
+                    "kuid": "ee26ac0b33664255a141a572239536bf",
+                    "originalPropertyKey": "adaptiveAuth",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 6,
+                    "propertyKey": "adaptiveAuth",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "adaptiveAuth",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "jsonEditor-Retriever",
+                                "dataUpdaterId": "jsonEditor-Updater",
+                                "popupId": "jsonEditor-Popup",
+                                "type": "jsonEditor"
+                            }
+                        },
+                        "uiRepresentation": "Label-Button"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "json",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": false,
+                    "group": "General",
+                    "kuid": "gf77d49481af496cb775df990219a3bf",
+                    "originalPropertyKey": "isRMSReadOnly",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 7,
+                    "propertyKey": "isRMSReadOnly",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "isRMSReadOnly",
+                        "uiRepresentation": "Label-Radiobuttongroup"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "boolean",
+                    "value": "true/false"
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "STATIC_PWD",
+                    "group": "General",
+                    "kuid": "c789e15910c74abb98a83445a8a8bbf5",
+                    "originalPropertyKey": "FirstFactor",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 8,
+                    "propertyKey": "FirstFactor",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "FirstFactor",
+                        "uiRepresentation": "Label-Combobox"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "list selector",
+                    "value": [
+                        "STATIC_PWD",
+                        "OTP_SMS_PIN",
+                        "SECURE_CODE",
+                        "USER_ID_LESS",
+                        "FIDO"
+                    ]
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "OTP_SMS",
+                    "group": "General",
+                    "kuid": "ab95f49baaf5439faa8744f43eb0581a",
+                    "originalPropertyKey": "MFA",
+                    "orignalPropertyType": "custom",
+                    "propertyIndex": 9,
+                    "propertyKey": "MFA",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "MFA",
+                        "uiRepresentation": "Label-Combobox"
+                    },
+                    "srcWgtKUID": "i6dc887ee05944d699e88d11a7bb00ac",
+                    "type": "list selector",
+                    "value": [
+                        "APPROVE",
+                        "OTP_SMS",
+                        "OTP_EML",
+                        "OTP_HWT",
+                        "NO_MFA",
+                        "SECURE_CODE"
+                    ]
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.hid",
+    "version": "1.0.0"
+}

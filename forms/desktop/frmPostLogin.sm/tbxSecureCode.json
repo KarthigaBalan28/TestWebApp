@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "110%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        10,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Secure code",
+    "_skin_": "s5c43240dad6486ead59f38a4a9b2edd",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "110%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {},
+    "disabledSkins": {
+        "focusSkin": "sc9e29acbce8409c971ab4aba77d9d0f",
+        "placeholderSkin": "sb31cc1f2ee8497dafb9b44cb4f4e3f7"
+    },
+    "id": "tbxSecureCode",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "e8ff914ba2154e10afafddae20339000",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxTbxSecureCode",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "110%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        10,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Bank Code",
+    "_skin_": "s6896e09f1d946be8ffa992d025fa6b8",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "110%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {},
+    "disabledSkins": {
+        "focusSkin": "sc9e29acbce8409c971ab4aba77d9d0f",
+        "placeholderSkin": "sb31cc1f2ee8497dafb9b44cb4f4e3f7"
+    },
+    "id": "tbxPatCountryCode",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "bac9c3b2bc814932a43e7fca26a9fd17",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxCountryCodePat",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

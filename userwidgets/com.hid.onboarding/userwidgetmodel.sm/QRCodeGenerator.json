@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s24c92fc23b14f5484b693ee9b8a9b35",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 0,
+    "data": {
+        "codeHeight": 140,
+        "codeWidth": 140,
+        "colorDark": "00539b"
+    },
+    "id": "QRCodeGenerator",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g08b5c81943d475a8b14a1890a0bd000",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxQRMain",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "ue9ec24e69ce4f3ea1df76bbb8776224",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

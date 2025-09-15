@@ -1,0 +1,25 @@
+{
+    "android": {},
+    "androidwearos": {},
+    "background_color": "00000000",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "font_name": "Gotham-Book"
+    },
+    "font_color": "000000ff",
+    "font_name": "Gotham-Book",
+    "font_size": 156,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "ipad": {},
+    "iphone": {},
+    "isDefaultSkin": false,
+    "kuid": "sfc12dbf474d44beb6d3eb360069fc25",
+    "tabrcandroid": {},
+    "wType": "Image",
+    "watchos": {}
+}

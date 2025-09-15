@@ -1,0 +1,26 @@
+{
+    "AS_Button_f60c3147b2834f8ca8ddff7917f200b8": {
+        "id": "AS_Button_f60c3147b2834f8ca8ddff7917f200b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "u81573b1647e4706b3d9702f3427b99b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_g7174b130cf649fa9a9b40ca578eb0e8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "cancelUpdateMobileOnClick",
+            "display": "cancelUpdateMobileOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

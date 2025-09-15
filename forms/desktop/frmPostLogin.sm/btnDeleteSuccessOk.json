@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s535de60353b426e89bb13f7c3f1c61d",
+    "_text_": "Done",
+    "_top_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s7d0ac6715754c04ab097928490d1064"
+    },
+    "displaytext": true,
+    "id": "btnDeleteSuccessOk",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jc39d753b99041fe81382131ff9121c1",
+    "name": "kony.ui.Button",
+    "parent": "flxDeleteSuccessMain",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.hid.onboarding.done",
+    "wType": "Button",
+    "zindex": 1
+}

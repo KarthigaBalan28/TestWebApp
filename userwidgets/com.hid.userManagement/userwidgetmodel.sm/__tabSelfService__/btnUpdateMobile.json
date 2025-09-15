@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2df9cb9769f43bda1d81e1e8d840165",
+    "_text_": "UPDATE",
+    "_top_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sbb25c9a163542f1987e56cbae6c62c3",
+    "id": "btnUpdateMobile",
+    "ide_onClick": "AS_Button_faaccd78974647acba0181ebbaaf9239",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "a42d1d4017674522802d8314818909bc",
+    "name": "kony.ui.Button",
+    "parent": "flxUpdateAttribute",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tabpaneId": "tabSelfService",
+    "texti18n": "i18n.hid.usermanagement.update",
+    "wType": "Button",
+    "zindex": 1
+}

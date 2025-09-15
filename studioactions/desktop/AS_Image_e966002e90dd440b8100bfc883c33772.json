@@ -1,0 +1,32 @@
+{
+    "AS_Image_e966002e90dd440b8100bfc883c33772": {
+        "id": "AS_Image_e966002e90dd440b8100bfc883c33772",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "KUID": "b46b7b40120444e0b50b7269a52b41a9",
+            "platform": "",
+            "type": "templates",
+            "name": "CopyCopytmpDevicesSegment"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_fca11606cc2b4d78bbe6314f77e8a68d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var secIndex = context.sectionIndex;\r\nvar rowIndex = context.rowIndex;\r\nthis.executeOnParent(\"cancelEdit\", {\r\n    row: rowIndex,\r\n    section: secIndex\r\n});",
+            "parentId": null
+        }]
+    }
+}

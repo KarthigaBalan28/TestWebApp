@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4db4bcb22524315839d538f0543a6fe",
+    "_text_": "OK",
+    "_top_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s7d0ac6715754c04ab097928490d1064"
+    },
+    "displaytext": true,
+    "id": "btnSuspendFailure",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b591f197569c437e962eb914b22afbb0",
+    "name": "kony.ui.Button",
+    "parent": "flxSuspendFailureMain",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.hid.common.ok",
+    "wType": "Button",
+    "zindex": 1
+}

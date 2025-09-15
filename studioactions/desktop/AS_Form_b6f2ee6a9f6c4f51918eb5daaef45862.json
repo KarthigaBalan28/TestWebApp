@@ -1,0 +1,23 @@
+{
+    "AS_Form_b6f2ee6a9f6c4f51918eb5daaef45862": {
+        "id": "AS_Form_b6f2ee6a9f6c4f51918eb5daaef45862",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a62a84b0a1134951b1eb478d2486b954"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_j890338f90de487bb15a83e59790a890",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.nonFinancialComponent.analyzeAction(\"savanthuser1\",\"random\");",
+            "parentId": null
+        }]
+    }
+}

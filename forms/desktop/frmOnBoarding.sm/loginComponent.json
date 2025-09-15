@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2a4a882160b4f989fc2bca6f8fe0e07",
+    "_top_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "FirstFactor": "STATIC_PWD",
+        "MFA": "OTP_SMS",
+        "adaptiveAuth": "{\n\"customAdaptiveAuth\": [\n{\n\"authType\": \"APPROVE\",\n\"lowerLimit\": \"5\",\n\"upperLimit\": \"8\"\n},\n{\n\"authType\": \"APPROVE\",\n\"lowerLimit\": \"8\",\n\"upperLimit\": \"10\"\n}\n],\n\"default\": \"APPROVE\"\n}",
+        "ide_onFailureCallback": "AS_UWI_d9381b7bb64f417abd235811813b6f80",
+        "ide_onSuccessCallback": "AS_UWI_iccbf5e1e8474beca9245b412dc37965",
+        "isRMSEnabled": true,
+        "isRMSReadOnly": false
+    },
+    "id": "loginComponent",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ab9dc538c9b643e1853eaa1b66978b59",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxContent",
+    "pf": "frmOnBoarding",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "i6dc887ee05944d699e88d11a7bb00ac",
+    "wType": "UserWidgetInstance"
+}

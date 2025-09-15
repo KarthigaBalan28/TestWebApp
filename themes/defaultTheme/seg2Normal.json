@@ -1,0 +1,20 @@
+{
+    "android": {},
+    "androidwearos": {},
+    "background_color": "ffffffff",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "font_name": "Gotham-Book"
+    },
+    "ipad": {},
+    "iphone": {},
+    "isDefaultSkin": true,
+    "kuid": "sa2761507c424ccea8d99e9af2281739",
+    "tabrcandroid": {},
+    "wType": "Segment",
+    "watchos": {}
+}

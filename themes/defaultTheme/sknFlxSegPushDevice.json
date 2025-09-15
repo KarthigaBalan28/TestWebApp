@@ -1,0 +1,21 @@
+{
+    "android": {},
+    "androidwearos": {},
+    "background_color": "00539b00",
+    "bg_type": "one",
+    "border_color": "00539bff",
+    "border_radius": 10,
+    "border_style": "custom",
+    "border_type": 0,
+    "border_width": 1,
+    "desktopweb": {
+        "font_name": "Gotham-Book"
+    },
+    "ipad": {},
+    "iphone": {},
+    "isDefaultSkin": false,
+    "kuid": "sd217a7b840048d0a2d330eec06c9003",
+    "tabrcandroid": {},
+    "wType": "FlexContainer",
+    "watchos": {}
+}

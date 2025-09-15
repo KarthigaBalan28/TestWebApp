@@ -1,0 +1,38 @@
+{
+    "android": {},
+    "androidwearos": {},
+    "background_color": "ffffffff",
+    "bg_type": "one",
+    "border_color": "00539bff",
+    "border_radius": 10,
+    "border_style": "custom",
+    "border_type": 0,
+    "border_width": 1,
+    "ipad": {
+        "isForked": true,
+        "shadow": {
+            "br": 0,
+            "color": "000000",
+            "inner": false,
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        }
+    },
+    "iphone": {
+        "isForked": true,
+        "shadow": {
+            "br": 0,
+            "color": "000000",
+            "inner": false,
+            "nm": 0,
+            "x": 0,
+            "y": 0
+        }
+    },
+    "isDefaultSkin": false,
+    "kuid": "s4cf3ecc32d24be684820c9fa94be909",
+    "tabrcandroid": {},
+    "wType": "FlexContainer",
+    "watchos": {}
+}

@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s1ed738b338a4d1c9ca3587380514ec1",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "breakpointInfo": {
+        "b1": {
+            "width": 1366
+        },
+        "b2": {
+            "width": 1024
+        },
+        "b3": {
+            "width": 640
+        }
+    },
+    "canUpdateUI": true,
+    "canvasWidth": 1200,
+    "children": [
+        "userManagement"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "device": "desktopweb",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "globalUserWidgetRefs": [
+        "ufcc816bc5204682bbd20d99eeb0b03b",
+        "u9dfdf2f49c94ac4925b843b971c3e1d"
+    ],
+    "id": "userwidgetmodel",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u81573b1647e4706b3d9702f3427b99b",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

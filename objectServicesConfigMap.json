@@ -1,0 +1,744 @@
+{
+    "HIDAuthService_ApproveRequest": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "ApproveRequest",
+        "objectid": "2674"
+    },
+    "HIDAuthService_ApproveStatus": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "ApproveStatus",
+        "objectid": "2675"
+    },
+    "HIDAuthService_Devices": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "Devices",
+        "objectid": "2676"
+    },
+    "HIDAuthService_FIDOAuthentication": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "FIDOAuthentication",
+        "objectid": "2677"
+    },
+    "HIDAuthService_GetClientIp": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "GetClientIp",
+        "objectid": "2678"
+    },
+    "HIDAuthService_OTPRequest": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "OTPRequest",
+        "objectid": "2679"
+    },
+    "HIDAuthService_RMScall": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "RMScall",
+        "objectid": "2680"
+    },
+    "HIDAuthService_SearchUser": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "SearchUser",
+        "objectid": "2681"
+    },
+    "HIDAuthService_ValidateOTP": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "ValidateOTP",
+        "objectid": "2682"
+    },
+    "HIDAuthService_ValidatePassword": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "ValidatePassword",
+        "objectid": "2683"
+    },
+    "HIDAuthService_ValidateSoftToken": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "ValidateSoftToken",
+        "objectid": "2684"
+    },
+    "HIDAuthService_getScanToApproveQrData": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "getScanToApproveQrData",
+        "objectid": "2685"
+    },
+    "HIDAuthService_sessionLoginStep": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "sessionLoginStep",
+        "objectid": "2686"
+    },
+    "HIDAuthService_ValidateSecureCode": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "ValidateSecureCode",
+        "objectid": "3191"
+    },
+    "HIDAuthService_ChangePassword": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "ChangePassword",
+        "objectid": "4140"
+    },
+    "HIDAuthService_PasswordPolicyCantSignIn": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "PasswordPolicyCantSignIn",
+        "objectid": "4248"
+    },
+    "HIDAuthService_RevokeRequest": {
+        "servicename": "HIDAuthService",
+        "serviceid": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+        "type": "objectsvcs",
+        "objectname": "RevokeRequest",
+        "objectid": "7146"
+    },
+    "HIDObjects_ActivationCodeValidation": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "ActivationCodeValidation",
+        "objectid": "3735"
+    },
+    "HIDObjects_AddAllOOBAuth": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "AddAllOOBAuth",
+        "objectid": "3736"
+    },
+    "HIDObjects_AddAllOOBAuthNew": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "AddAllOOBAuthNew",
+        "objectid": "3737"
+    },
+    "HIDObjects_AddAuthenticatorTXOOB": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "AddAuthenticatorTXOOB",
+        "objectid": "3738"
+    },
+    "HIDObjects_AddHardwareAuthenticator": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "AddHardwareAuthenticator",
+        "objectid": "3739"
+    },
+    "HIDObjects_AddHardwareDeviceToUser": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "AddHardwareDeviceToUser",
+        "objectid": "3740"
+    },
+    "HIDObjects_AddOOBAuthAndSendSMS": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "AddOOBAuthAndSendSMS",
+        "objectid": "3741"
+    },
+    "HIDObjects_AddOOBAuthenticator": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "AddOOBAuthenticator",
+        "objectid": "3742"
+    },
+    "HIDObjects_AddPasswordAuthenticator": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "AddPasswordAuthenticator",
+        "objectid": "3743"
+    },
+    "HIDObjects_ApproveDeviceRegistration": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "ApproveDeviceRegistration",
+        "objectid": "3744"
+    },
+    "HIDObjects_ApproveStatusPolling": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "ApproveStatusPolling",
+        "objectid": "3745"
+    },
+    "HIDObjects_DeviceRegistrationPolling": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "DeviceRegistrationPolling",
+        "objectid": "3746"
+    },
+    "HIDObjects_FIDOOnboarding": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "FIDOOnboarding",
+        "objectid": "3747"
+    },
+    "HIDObjects_HIDApproveInitiation": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "HIDApproveInitiation",
+        "objectid": "3748"
+    },
+    "HIDObjects_PasswordPolicy": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "PasswordPolicy",
+        "objectid": "3749"
+    },
+    "HIDObjects_ScimSample": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "ScimSample",
+        "objectid": "3750"
+    },
+    "HIDObjects_SearchAndAddHWDevice": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "SearchAndAddHWDevice",
+        "objectid": "3751"
+    },
+    "HIDObjects_SearchDevices": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "SearchDevices",
+        "objectid": "3752"
+    },
+    "HIDObjects_SearchHardwareDevice": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "SearchHardwareDevice",
+        "objectid": "3753"
+    },
+    "HIDObjects_SendOOB": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "SendOOB",
+        "objectid": "3754"
+    },
+    "HIDObjects_UpdateDeviceStatus": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "UpdateDeviceStatus",
+        "objectid": "3755"
+    },
+    "HIDObjects_ValidateOOB": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "ValidateOOB",
+        "objectid": "3756"
+    },
+    "HIDObjects_ValidateOTP": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "ValidateOTP",
+        "objectid": "3757"
+    },
+    "HIDObjects_authenticators": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "authenticators",
+        "objectid": "3758"
+    },
+    "HIDObjects_resources": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "resources",
+        "objectid": "3759"
+    },
+    "HIDObjects_status": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "status",
+        "objectid": "3760"
+    },
+    "HIDObjects_GetDevice": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "GetDevice",
+        "objectid": "7454"
+    },
+    "HIDObjects_UpdateFriendlyName": {
+        "servicename": "HIDObjects",
+        "serviceid": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+        "type": "objectsvcs",
+        "objectname": "UpdateFriendlyName",
+        "objectid": "7460"
+    },
+    "HIDPSD2TPPObjects_ApproveConsent": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "ApproveConsent",
+        "objectid": "2969"
+    },
+    "HIDPSD2TPPObjects_ApprovePayments": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "ApprovePayments",
+        "objectid": "2970"
+    },
+    "HIDPSD2TPPObjects_DenyConsnt": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "DenyConsnt",
+        "objectid": "2971"
+    },
+    "HIDPSD2TPPObjects_DenyPayments": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "DenyPayments",
+        "objectid": "2972"
+    },
+    "HIDPSD2TPPObjects_GetEligibleAccountsForConsent": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "GetEligibleAccountsForConsent",
+        "objectid": "2973"
+    },
+    "HIDPSD2TPPObjects_GetInfinityUserDetailsForConsent": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "GetInfinityUserDetailsForConsent",
+        "objectid": "2974"
+    },
+    "HIDPSD2TPPObjects_GetPSD2AccountListForPayments": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "GetPSD2AccountListForPayments",
+        "objectid": "2975"
+    },
+    "HIDPSD2TPPObjects_GetPSD2Payments": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "GetPSD2Payments",
+        "objectid": "2976"
+    },
+    "HIDPSD2TPPObjects_GetPaymentEligibleAccounts": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "GetPaymentEligibleAccounts",
+        "objectid": "2977"
+    },
+    "HIDPSD2TPPObjects_GetTPPConsentDetails": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "GetTPPConsentDetails",
+        "objectid": "2978"
+    },
+    "HIDPSD2TPPObjects_GetTermsAndConditions": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "GetTermsAndConditions",
+        "objectid": "2979"
+    },
+    "HIDPSD2TPPObjects_MoveConsentToINAU": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "MoveConsentToINAU",
+        "objectid": "2980"
+    },
+    "HIDPSD2TPPObjects_MovePaymentToINAU": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "MovePaymentToINAU",
+        "objectid": "2981"
+    },
+    "HIDPSD2TPPObjects_UpdateResourceTable": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "UpdateResourceTable",
+        "objectid": "2982"
+    },
+    "HIDPSD2TPPObjects_ValidatePsd2TppToken": {
+        "servicename": "HIDPSD2TPPObjects",
+        "serviceid": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+        "type": "objectsvcs",
+        "objectname": "ValidatePsd2TppToken",
+        "objectid": "2983"
+    },
+    "HIDRMSPayments_PaymentCreate": {
+        "servicename": "HIDRMSPayments",
+        "serviceid": "4ba1786a-dacd-4d13-b3d7-77da7cfa326a",
+        "type": "objectsvcs",
+        "objectname": "PaymentCreate",
+        "objectid": "2572"
+    },
+    "HIDRMSPayments_PaymentSign": {
+        "servicename": "HIDRMSPayments",
+        "serviceid": "4ba1786a-dacd-4d13-b3d7-77da7cfa326a",
+        "type": "objectsvcs",
+        "objectname": "PaymentSign",
+        "objectid": "2573"
+    },
+    "HIDRMSPayments_PaymentUpdate": {
+        "servicename": "HIDRMSPayments",
+        "serviceid": "4ba1786a-dacd-4d13-b3d7-77da7cfa326a",
+        "type": "objectsvcs",
+        "objectname": "PaymentUpdate",
+        "objectid": "2574"
+    },
+    "HIDRMSService_RMSActionComplete": {
+        "servicename": "HIDRMSService",
+        "serviceid": "ffe2592b-3f63-4e7f-aa30-d17cd8812a3a",
+        "type": "objectsvcs",
+        "objectname": "RMSActionComplete",
+        "objectid": "2555"
+    },
+    "HIDRMSService_RMSActionCreate": {
+        "servicename": "HIDRMSService",
+        "serviceid": "ffe2592b-3f63-4e7f-aa30-d17cd8812a3a",
+        "type": "objectsvcs",
+        "objectname": "RMSActionCreate",
+        "objectid": "2556"
+    },
+    "HIDRMSService_RMSActionSign": {
+        "servicename": "HIDRMSService",
+        "serviceid": "ffe2592b-3f63-4e7f-aa30-d17cd8812a3a",
+        "type": "objectsvcs",
+        "objectname": "RMSActionSign",
+        "objectid": "2557"
+    },
+    "HIDRMSService_RMSSessionService": {
+        "servicename": "HIDRMSService",
+        "serviceid": "ffe2592b-3f63-4e7f-aa30-d17cd8812a3a",
+        "type": "objectsvcs",
+        "objectname": "RMSSessionService",
+        "objectid": "2558"
+    },
+    "HIDTransactionSigning_ApproveRequest": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "ApproveRequest",
+        "objectid": "2506"
+    },
+    "HIDTransactionSigning_ApproveStatus": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "ApproveStatus",
+        "objectid": "2507"
+    },
+    "HIDTransactionSigning_AprroveTransactInitiate": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "AprroveTransactInitiate",
+        "objectid": "2508"
+    },
+    "HIDTransactionSigning_ChallengeValidation": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "ChallengeValidation",
+        "objectid": "2509"
+    },
+    "HIDTransactionSigning_Devices": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "Devices",
+        "objectid": "2510"
+    },
+    "HIDTransactionSigning_GenerateChallenge": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "GenerateChallenge",
+        "objectid": "2511"
+    },
+    "HIDTransactionSigning_GetHostAndTenant": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "GetHostAndTenant",
+        "objectid": "2512"
+    },
+    "HIDTransactionSigning_OTPRequest": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "OTPRequest",
+        "objectid": "2513"
+    },
+    "HIDTransactionSigning_SendTXOOBSMS": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "SendTXOOBSMS",
+        "objectid": "2514"
+    },
+    "HIDTransactionSigning_SignatureValidation": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "SignatureValidation",
+        "objectid": "2515"
+    },
+    "HIDTransactionSigning_User": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "User",
+        "objectid": "2516"
+    },
+    "HIDTransactionSigning_ValidateSMSOTP": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "ValidateSMSOTP",
+        "objectid": "2517"
+    },
+    "HIDTransactionSigning_attributes": {
+        "servicename": "HIDTransactionSigning",
+        "serviceid": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+        "type": "objectsvcs",
+        "objectname": "attributes",
+        "objectid": "2518"
+    },
+    "HIDUserAdministration_Authenticators": {
+        "servicename": "HIDUserAdministration",
+        "serviceid": "4e76f06b-f9cd-4f81-9839-c77753c887b6",
+        "type": "objectsvcs",
+        "objectname": "Authenticators",
+        "objectid": "2485"
+    },
+    "HIDUserAdministration_ChangeAuthenticatorStatus": {
+        "servicename": "HIDUserAdministration",
+        "serviceid": "4e76f06b-f9cd-4f81-9839-c77753c887b6",
+        "type": "objectsvcs",
+        "objectname": "ChangeAuthenticatorStatus",
+        "objectid": "2486"
+    },
+    "HIDUserAdministration_ResetAuthFailCount": {
+        "servicename": "HIDUserAdministration",
+        "serviceid": "4e76f06b-f9cd-4f81-9839-c77753c887b6",
+        "type": "objectsvcs",
+        "objectname": "ResetAuthFailCount",
+        "objectid": "2487"
+    },
+    "HIDUserAdministration_ResetAuthenticatorFailureCount": {
+        "servicename": "HIDUserAdministration",
+        "serviceid": "4e76f06b-f9cd-4f81-9839-c77753c887b6",
+        "type": "objectsvcs",
+        "objectname": "ResetAuthenticatorFailureCount",
+        "objectid": "2488"
+    },
+    "HIDUserAdministration_UserAccountReset": {
+        "servicename": "HIDUserAdministration",
+        "serviceid": "4e76f06b-f9cd-4f81-9839-c77753c887b6",
+        "type": "objectsvcs",
+        "objectname": "UserAccountReset",
+        "objectid": "2489"
+    },
+    "HIDUserManagement_AssignUnassignDevice": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "AssignUnassignDevice",
+        "objectid": "2432"
+    },
+    "HIDUserManagement_ChangePassword": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "ChangePassword",
+        "objectid": "2433"
+    },
+    "HIDUserManagement_DeleteDevice": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "DeleteDevice",
+        "objectid": "2434"
+    },
+    "HIDUserManagement_DeviceRegistrationPolling": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "DeviceRegistrationPolling",
+        "objectid": "2435"
+    },
+    "HIDUserManagement_FIDORegistration": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "FIDORegistration",
+        "objectid": "2436"
+    },
+    "HIDUserManagement_PasswordPolicy": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "PasswordPolicy",
+        "objectid": "2437"
+    },
+    "HIDUserManagement_RegisterDevice": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "RegisterDevice",
+        "objectid": "2438"
+    },
+    "HIDUserManagement_SearchDevices": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "SearchDevices",
+        "objectid": "2439"
+    },
+    "HIDUserManagement_UpdateDeviceName": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "UpdateDeviceName",
+        "objectid": "2440"
+    },
+    "HIDUserManagement_UpdateDeviceStatus": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "UpdateDeviceStatus",
+        "objectid": "2441"
+    },
+    "HIDUserManagement_UpdateUserAttributes": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "UpdateUserAttributes",
+        "objectid": "2442"
+    },
+    "HIDUserManagement_authenticatorSelection": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "authenticatorSelection",
+        "objectid": "2443"
+    },
+    "HIDUserManagement_getPINExpiryAge": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "getPINExpiryAge",
+        "objectid": "2444"
+    },
+    "HIDUserManagement_pubKeyCredParams": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "pubKeyCredParams",
+        "objectid": "2445"
+    },
+    "HIDUserManagement_publicKeyCredentialOptions": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "publicKeyCredentialOptions",
+        "objectid": "2446"
+    },
+    "HIDUserManagement_rp": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "rp",
+        "objectid": "2447"
+    },
+    "HIDUserManagement_user": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "user",
+        "objectid": "2448"
+    },
+    "HIDUserManagement_ValidatePassword": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "ValidatePassword",
+        "objectid": "3147"
+    },
+    "HIDUserManagement_ValidateSecureCode": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "ValidateSecureCode",
+        "objectid": "3154"
+    },
+    "HIDUserManagement_GetUserAttributes": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "GetUserAttributes",
+        "objectid": "7073"
+    },
+    "HIDUserManagement_SearchUserAttributes": {
+        "servicename": "HIDUserManagement",
+        "serviceid": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+        "type": "objectsvcs",
+        "objectname": "SearchUserAttributes",
+        "objectid": "7088"
+    }
+}

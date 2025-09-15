@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2df9cb9769f43bda1d81e1e8d840165",
+    "_text_": "UPDATE",
+    "_top_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sbb25c9a163542f1987e56cbae6c62c3",
+    "id": "btnUpdateEmail",
+    "ide_onClick": "AS_Button_a3ed5e5b43324b00ba312f7cdd2fc4ed",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e96a8d2e66bb49968ad474912847215d",
+    "name": "kony.ui.Button",
+    "parent": "flxUpdateAttribute",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tabpaneId": "tabSelfService",
+    "texti18n": "i18n.hid.usermanagement.update",
+    "wType": "Button",
+    "zindex": 1
+}

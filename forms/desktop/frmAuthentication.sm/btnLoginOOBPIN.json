@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s96965f413d74f3590900b18d34dd23c",
+    "_text_": "SUBMIT",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "blockedUISkin": "sf23dcdf64f1465fa059f270305e2f72"
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s57d3330c7fa42e4be4eed7656d674b6",
+    "id": "btnLoginOOBPIN",
+    "ide_onClick": "AS_Button_e42eee5cbaaa4110b9e01340a9494c12",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a0f6e5fb645648f789afdccd1d1b224a",
+    "name": "kony.ui.Button",
+    "parent": "flxLoginButton",
+    "pf": "frmAuthentication",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

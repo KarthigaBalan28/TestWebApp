@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s24c92fc23b14f5484b693ee9b8a9b35",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "codeHeight": 135,
+        "codeWidth": 135,
+        "colorDark": "00539b",
+        "correctLevel": "1"
+    },
+    "id": "QRCodeGenerator",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dcbedced64754bf38560e6f05faa96fa",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxQrCode",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "ue9ec24e69ce4f3ea1df76bbb8776224",
+    "tabpaneId": "tabSelfService",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

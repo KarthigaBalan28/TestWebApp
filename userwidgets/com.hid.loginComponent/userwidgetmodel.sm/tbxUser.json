@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Username",
+    "_skin_": "s8ae242597ca4cc78a85853655d0fee2",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "placeholderSkin": "s67cc77c7b124c89a36419763fab14a7"
+    },
+    "disabledSkins": {},
+    "focusskin": "s3bf1513090a4ad5afadf809cc194852",
+    "id": "tbxUser",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "f6c6c36f9ab34d2a8d6a91afa165dd97",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxUserName",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "s67cc77c7b124c89a36419763fab14a7",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

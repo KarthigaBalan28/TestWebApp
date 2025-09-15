@@ -1,0 +1,37 @@
+{
+    "AS_Segment_g3772155f898438eb7902a9b5beefebe": {
+        "id": "AS_Segment_g3772155f898438eb7902a9b5beefebe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPostLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b295046e510941938ac108e424807d78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__d8777ca1227a4d8194c924cf76919e5b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "callDeleteFunction",
+            "display": "callDeleteFunction",
+            "inputparams": [{
+                "name": "rowNumber",
+                "value": " rowNumber"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

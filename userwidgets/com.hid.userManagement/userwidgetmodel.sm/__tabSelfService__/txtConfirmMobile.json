@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "22%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "ex: 919450945066",
+    "_skin_": "s033b040ed4d4f6eb052be957e2cff66",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sc9e29acbce8409c971ab4aba77d9d0f",
+    "id": "txtConfirmMobile",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "b9909e784780423aa125629a0e55433c",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxUpdateAttribute",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "sae4b6a882fd4182970ada923e056729",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "tabpaneId": "tabSelfService",
+    "textinputmode": "N",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

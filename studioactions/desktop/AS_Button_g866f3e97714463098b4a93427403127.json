@@ -1,0 +1,21 @@
+{
+    "AS_Button_g866f3e97714463098b4a93427403127": {
+        "id": "AS_Button_g866f3e97714463098b4a93427403127",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_cc8a832ad2394a399683b137c8fa999a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "validateOTP",
+            "display": "validateOTP",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

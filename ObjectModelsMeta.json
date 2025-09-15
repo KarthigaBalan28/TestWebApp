@@ -1,0 +1,593 @@
+{
+    "services": [
+        {
+            "serviceId": "683c0fba-5195-41b3-8cee-f6dacbf56d17",
+            "serviceName": "HIDAuthService",
+            "serviceETag": "05e25410-becc-4b7e-a30d-3ca7d9dbc31c",
+            "objects": [
+                {
+                    "objectId": "2674",
+                    "objectName": "ApproveRequest",
+                    "objectETag": "ea634d1e-d94f-4152-88ad-e0f265215b57"
+                },
+                {
+                    "objectId": "2675",
+                    "objectName": "ApproveStatus",
+                    "objectETag": "94b5ddaa-479e-4ff5-b9f2-f78f617e7995"
+                },
+                {
+                    "objectId": "2676",
+                    "objectName": "Devices",
+                    "objectETag": "6543d8e9-9f69-413a-b087-f34a179ad1fd"
+                },
+                {
+                    "objectId": "2677",
+                    "objectName": "FIDOAuthentication",
+                    "objectETag": "747a6178-1316-407a-a2b4-5e0c30b3f01a"
+                },
+                {
+                    "objectId": "2678",
+                    "objectName": "GetClientIp",
+                    "objectETag": "9404dc9b-fa49-40b8-b862-473a060928e5"
+                },
+                {
+                    "objectId": "2679",
+                    "objectName": "OTPRequest",
+                    "objectETag": "1a0dbf34-85be-4877-a2f8-b5c682cb6df4"
+                },
+                {
+                    "objectId": "2680",
+                    "objectName": "RMScall",
+                    "objectETag": "878668d6-d737-43fd-9ffb-df900fd58298"
+                },
+                {
+                    "objectId": "2681",
+                    "objectName": "SearchUser",
+                    "objectETag": "073b83f9-755f-4a2f-864d-1e9f87a70eda"
+                },
+                {
+                    "objectId": "2682",
+                    "objectName": "ValidateOTP",
+                    "objectETag": "158f4c96-8efe-409c-8d64-3033f40ae2a8"
+                },
+                {
+                    "objectId": "2683",
+                    "objectName": "ValidatePassword",
+                    "objectETag": "df7fa679-844b-4288-a143-f75075195db4"
+                },
+                {
+                    "objectId": "2684",
+                    "objectName": "ValidateSoftToken",
+                    "objectETag": "86dcbf3d-f4a1-4e30-8fe2-8f1ec48c8ed8"
+                },
+                {
+                    "objectId": "2685",
+                    "objectName": "getScanToApproveQrData",
+                    "objectETag": "7df45c6c-2b5b-441c-9a0c-c18778702c5e"
+                },
+                {
+                    "objectId": "2686",
+                    "objectName": "sessionLoginStep",
+                    "objectETag": "d8327091-5f16-4047-ba8d-586533bd3d61"
+                },
+                {
+                    "objectId": "3191",
+                    "objectName": "ValidateSecureCode",
+                    "objectETag": "aac4ea7f-2ae4-4d18-8159-942abaf0b32b"
+                },
+                {
+                    "objectId": "4140",
+                    "objectName": "ChangePassword",
+                    "objectETag": "c58db946-2e51-4f03-843c-5c04e9346e72"
+                },
+                {
+                    "objectId": "4248",
+                    "objectName": "PasswordPolicyCantSignIn",
+                    "objectETag": "91adccd2-4bb0-4723-b2a2-a6b6253e1316"
+                },
+                {
+                    "objectId": "7146",
+                    "objectName": "RevokeRequest",
+                    "objectETag": "78e897a1-31c5-45e5-beb5-379c9421e214"
+                }
+            ]
+        },
+        {
+            "serviceId": "12e300fe-a31c-4966-ad18-1fe38de2e226",
+            "serviceName": "HIDObjects",
+            "serviceETag": "79edc87c-09d3-4e6a-a302-8a97a02de4f2",
+            "objects": [
+                {
+                    "objectId": "3735",
+                    "objectName": "ActivationCodeValidation",
+                    "objectETag": "f200b4c6-8643-4272-8503-84cdac291ce3"
+                },
+                {
+                    "objectId": "3736",
+                    "objectName": "AddAllOOBAuth",
+                    "objectETag": "02050bb3-159e-4f27-8f18-dbffe0521d33"
+                },
+                {
+                    "objectId": "3737",
+                    "objectName": "AddAllOOBAuthNew",
+                    "objectETag": "7d3b54fb-12fa-469a-8cfd-049b9129cbff"
+                },
+                {
+                    "objectId": "3738",
+                    "objectName": "AddAuthenticatorTXOOB",
+                    "objectETag": "79f463cf-4885-4bb2-8448-5d0d76a62c9e"
+                },
+                {
+                    "objectId": "3739",
+                    "objectName": "AddHardwareAuthenticator",
+                    "objectETag": "82bedb5e-d6de-435b-81ce-056644aba3c0"
+                },
+                {
+                    "objectId": "3740",
+                    "objectName": "AddHardwareDeviceToUser",
+                    "objectETag": "c2590099-8a03-49c0-86af-9f1ffb8c3976"
+                },
+                {
+                    "objectId": "3741",
+                    "objectName": "AddOOBAuthAndSendSMS",
+                    "objectETag": "c48d6b22-65bb-44a2-998f-45d0dff12516"
+                },
+                {
+                    "objectId": "3742",
+                    "objectName": "AddOOBAuthenticator",
+                    "objectETag": "c1177fcb-f867-465b-9039-7f75d461ca38"
+                },
+                {
+                    "objectId": "3743",
+                    "objectName": "AddPasswordAuthenticator",
+                    "objectETag": "8160d459-409c-4591-965f-f69b6c4a73c7"
+                },
+                {
+                    "objectId": "3744",
+                    "objectName": "ApproveDeviceRegistration",
+                    "objectETag": "1833dc53-af91-49b3-b641-0ee2c42b8844"
+                },
+                {
+                    "objectId": "3745",
+                    "objectName": "ApproveStatusPolling",
+                    "objectETag": "ac39a355-42d4-44b3-99ae-695335940b45"
+                },
+                {
+                    "objectId": "3746",
+                    "objectName": "DeviceRegistrationPolling",
+                    "objectETag": "44616f5b-492f-4440-a6bc-104c22429131"
+                },
+                {
+                    "objectId": "3747",
+                    "objectName": "FIDOOnboarding",
+                    "objectETag": "1990bd99-3820-40d2-b45a-7c9fe42ae571"
+                },
+                {
+                    "objectId": "3748",
+                    "objectName": "HIDApproveInitiation",
+                    "objectETag": "d50414bb-ad4c-466a-9854-941eae1328a9"
+                },
+                {
+                    "objectId": "3749",
+                    "objectName": "PasswordPolicy",
+                    "objectETag": "ce833f7f-56eb-4660-8b40-18cf9afb8ae5"
+                },
+                {
+                    "objectId": "3750",
+                    "objectName": "ScimSample",
+                    "objectETag": "c22123ee-0046-4279-a6a2-9c753ac51a4d"
+                },
+                {
+                    "objectId": "3751",
+                    "objectName": "SearchAndAddHWDevice",
+                    "objectETag": "c073e0f6-3c6e-424d-9302-adc13da421c9"
+                },
+                {
+                    "objectId": "3752",
+                    "objectName": "SearchDevices",
+                    "objectETag": "549a3473-0624-48c7-be85-91c843907f60"
+                },
+                {
+                    "objectId": "3753",
+                    "objectName": "SearchHardwareDevice",
+                    "objectETag": "5517356f-855e-47ba-bded-5730e0e0f5e1"
+                },
+                {
+                    "objectId": "3754",
+                    "objectName": "SendOOB",
+                    "objectETag": "7a168cdb-52c9-42a8-8efa-d6653afd166b"
+                },
+                {
+                    "objectId": "3755",
+                    "objectName": "UpdateDeviceStatus",
+                    "objectETag": "7810bf4e-f76d-40df-a112-30cd76e6e0ea"
+                },
+                {
+                    "objectId": "3756",
+                    "objectName": "ValidateOOB",
+                    "objectETag": "3d041e05-df89-4981-92be-67eb6ef7a4b2"
+                },
+                {
+                    "objectId": "3757",
+                    "objectName": "ValidateOTP",
+                    "objectETag": "43786385-e879-4d5d-9ece-dbeb2e08a39f"
+                },
+                {
+                    "objectId": "3758",
+                    "objectName": "authenticators",
+                    "objectETag": "f9d54ebd-ad7f-4286-bcb5-e61086c82d0b"
+                },
+                {
+                    "objectId": "3759",
+                    "objectName": "resources",
+                    "objectETag": "481a8ab8-3291-4ec1-8f5a-6204f508d7e9"
+                },
+                {
+                    "objectId": "3760",
+                    "objectName": "status",
+                    "objectETag": "ef045858-3339-4cdc-80de-04d5da268d87"
+                },
+                {
+                    "objectId": "7454",
+                    "objectName": "GetDevice",
+                    "objectETag": "69990df0-0d39-4673-ab12-9dd569e20de7"
+                },
+                {
+                    "objectId": "7460",
+                    "objectName": "UpdateFriendlyName",
+                    "objectETag": "b331bce3-a82f-4de7-b830-c098451b229f"
+                }
+            ]
+        },
+        {
+            "serviceId": "fedb63d5-da5c-4ca2-8bc5-9742a29162fc",
+            "serviceName": "HIDPSD2TPPObjects",
+            "serviceETag": "faf702a6-21d9-42e7-9a35-e54d4cb89de0",
+            "objects": [
+                {
+                    "objectId": "2969",
+                    "objectName": "ApproveConsent",
+                    "objectETag": "ad12ec2c-546b-41d6-b71e-fb309a691a82"
+                },
+                {
+                    "objectId": "2970",
+                    "objectName": "ApprovePayments",
+                    "objectETag": "e359d9eb-cd9a-4a36-83db-31a80c919d07"
+                },
+                {
+                    "objectId": "2971",
+                    "objectName": "DenyConsnt",
+                    "objectETag": "98185c0a-7522-4835-85e4-1e7e5cfdae2f"
+                },
+                {
+                    "objectId": "2972",
+                    "objectName": "DenyPayments",
+                    "objectETag": "9efeaf58-2508-4b31-90c7-0781161aeb70"
+                },
+                {
+                    "objectId": "2973",
+                    "objectName": "GetEligibleAccountsForConsent",
+                    "objectETag": "7f12b944-35d5-485a-8de1-350acfbd3a80"
+                },
+                {
+                    "objectId": "2974",
+                    "objectName": "GetInfinityUserDetailsForConsent",
+                    "objectETag": "c2382d82-99cb-4f21-81cf-80e8492780fd"
+                },
+                {
+                    "objectId": "2975",
+                    "objectName": "GetPSD2AccountListForPayments",
+                    "objectETag": "b0f0ccd9-19ef-457c-968c-a69107988e90"
+                },
+                {
+                    "objectId": "2976",
+                    "objectName": "GetPSD2Payments",
+                    "objectETag": "0d2d576f-fad7-464e-a341-916509a928eb"
+                },
+                {
+                    "objectId": "2977",
+                    "objectName": "GetPaymentEligibleAccounts",
+                    "objectETag": "a0d64498-eccf-44d5-b8ee-05be4620aa88"
+                },
+                {
+                    "objectId": "2978",
+                    "objectName": "GetTPPConsentDetails",
+                    "objectETag": "dad71629-18d8-4621-889f-177cf0c3e785"
+                },
+                {
+                    "objectId": "2979",
+                    "objectName": "GetTermsAndConditions",
+                    "objectETag": "9828513e-007b-4a75-93e4-bd0b64e9d89f"
+                },
+                {
+                    "objectId": "2980",
+                    "objectName": "MoveConsentToINAU",
+                    "objectETag": "6cdea900-90b7-4290-aeb6-a367004acc23"
+                },
+                {
+                    "objectId": "2981",
+                    "objectName": "MovePaymentToINAU",
+                    "objectETag": "41b8fecd-ebde-4df7-8928-13238f3837c2"
+                },
+                {
+                    "objectId": "2982",
+                    "objectName": "UpdateResourceTable",
+                    "objectETag": "8c74410c-dd23-400a-9c1f-287ad0891cfb"
+                },
+                {
+                    "objectId": "2983",
+                    "objectName": "ValidatePsd2TppToken",
+                    "objectETag": "d0707836-47ed-478f-a679-8b60814378a7"
+                }
+            ]
+        },
+        {
+            "serviceId": "4ba1786a-dacd-4d13-b3d7-77da7cfa326a",
+            "serviceName": "HIDRMSPayments",
+            "serviceETag": "1278cac8-d18c-4333-9ae6-9ee1ac68a4df",
+            "objects": [
+                {
+                    "objectId": "2572",
+                    "objectName": "PaymentCreate",
+                    "objectETag": "800f3473-7f94-4400-9be7-6b29f7b6d1f8"
+                },
+                {
+                    "objectId": "2573",
+                    "objectName": "PaymentSign",
+                    "objectETag": "aaa07aec-7bca-489c-a33b-4e4f1ce9fbeb"
+                },
+                {
+                    "objectId": "2574",
+                    "objectName": "PaymentUpdate",
+                    "objectETag": "09d53eeb-88bc-42ab-9093-4bcfee32f5d1"
+                }
+            ]
+        },
+        {
+            "serviceId": "ffe2592b-3f63-4e7f-aa30-d17cd8812a3a",
+            "serviceName": "HIDRMSService",
+            "serviceETag": "ec4fd588-a4d7-4977-9c41-48f7cc68bd02",
+            "objects": [
+                {
+                    "objectId": "2555",
+                    "objectName": "RMSActionComplete",
+                    "objectETag": "0081bc57-e8b7-49f5-8960-032b017f7bb8"
+                },
+                {
+                    "objectId": "2556",
+                    "objectName": "RMSActionCreate",
+                    "objectETag": "9d3a22e5-139f-400e-bd37-25fd86d38ade"
+                },
+                {
+                    "objectId": "2557",
+                    "objectName": "RMSActionSign",
+                    "objectETag": "61d5b622-83ea-4c3a-b935-0022ad16d9f8"
+                },
+                {
+                    "objectId": "2558",
+                    "objectName": "RMSSessionService",
+                    "objectETag": "625b0901-6ea5-4b45-943b-2f62f9c8a67b"
+                }
+            ]
+        },
+        {
+            "serviceId": "970dcdb1-639a-4e3c-9a40-43c51ea03138",
+            "serviceName": "HIDTransactionSigning",
+            "serviceETag": "c65765c5-6d9e-4e2a-97cf-228bfab642cc",
+            "objects": [
+                {
+                    "objectId": "2506",
+                    "objectName": "ApproveRequest",
+                    "objectETag": "0b3ba906-cb3a-43d6-abd6-d1542c8b4fbf"
+                },
+                {
+                    "objectId": "2507",
+                    "objectName": "ApproveStatus",
+                    "objectETag": "a18c7556-5671-4903-8fb6-4eda518dce8a"
+                },
+                {
+                    "objectId": "2508",
+                    "objectName": "AprroveTransactInitiate",
+                    "objectETag": "7bfa7e12-8a72-450f-bd9d-0914b8e5b487"
+                },
+                {
+                    "objectId": "2509",
+                    "objectName": "ChallengeValidation",
+                    "objectETag": "2a56a3d6-4f30-4844-8ada-b86b24f47967"
+                },
+                {
+                    "objectId": "2510",
+                    "objectName": "Devices",
+                    "objectETag": "fc4e4ff1-d809-4976-b3a3-7f171670f89e"
+                },
+                {
+                    "objectId": "2511",
+                    "objectName": "GenerateChallenge",
+                    "objectETag": "2fbd9a2e-d78e-4f92-9495-22c7cb8202b2"
+                },
+                {
+                    "objectId": "2512",
+                    "objectName": "GetHostAndTenant",
+                    "objectETag": "f437985a-eecb-4f98-b6a4-b354325f37f3"
+                },
+                {
+                    "objectId": "2513",
+                    "objectName": "OTPRequest",
+                    "objectETag": "b881af37-bc34-4062-91b3-bb329e1a505c"
+                },
+                {
+                    "objectId": "2514",
+                    "objectName": "SendTXOOBSMS",
+                    "objectETag": "e66406cf-ea64-4927-a969-b87617eb8caa"
+                },
+                {
+                    "objectId": "2515",
+                    "objectName": "SignatureValidation",
+                    "objectETag": "8f2d48b0-a77b-4673-af15-3c9a8fe631bc"
+                },
+                {
+                    "objectId": "2516",
+                    "objectName": "User",
+                    "objectETag": "64d0596a-e758-446e-913e-9a7d420fdb4c"
+                },
+                {
+                    "objectId": "2517",
+                    "objectName": "ValidateSMSOTP",
+                    "objectETag": "76a51efa-4e2b-49e7-85b6-c1f4e4a3a842"
+                },
+                {
+                    "objectId": "2518",
+                    "objectName": "attributes",
+                    "objectETag": "07f64b00-1412-45be-8f5d-9e30e4fdb05c"
+                }
+            ]
+        },
+        {
+            "serviceId": "4e76f06b-f9cd-4f81-9839-c77753c887b6",
+            "serviceName": "HIDUserAdministration",
+            "serviceETag": "86634987-bc1a-4cf8-acdc-20656ccfbff4",
+            "objects": [
+                {
+                    "objectId": "2485",
+                    "objectName": "Authenticators",
+                    "objectETag": "d9dd5ade-2d39-44a3-8c69-0c5be9fc3dfa"
+                },
+                {
+                    "objectId": "2486",
+                    "objectName": "ChangeAuthenticatorStatus",
+                    "objectETag": "93f23db2-ea82-4294-bb35-f304c20262e5"
+                },
+                {
+                    "objectId": "2487",
+                    "objectName": "ResetAuthFailCount",
+                    "objectETag": "6d83b306-817d-4792-9479-db8b99f0f867"
+                },
+                {
+                    "objectId": "2488",
+                    "objectName": "ResetAuthenticatorFailureCount",
+                    "objectETag": "07a6390f-955b-4704-acd3-c7aae885ae64"
+                },
+                {
+                    "objectId": "2489",
+                    "objectName": "UserAccountReset",
+                    "objectETag": "48e923c9-99e2-4a23-9f4a-6a88f853e564"
+                }
+            ]
+        },
+        {
+            "serviceId": "6bcecf7e-b448-44ae-a283-83d7b53daf0d",
+            "serviceName": "HIDUserManagement",
+            "serviceETag": "131f9227-33ff-4cae-9e2e-d514a4296d0b",
+            "objects": [
+                {
+                    "objectId": "2432",
+                    "objectName": "AssignUnassignDevice",
+                    "objectETag": "e6c9715a-068c-457e-8319-01f105a89029"
+                },
+                {
+                    "objectId": "2433",
+                    "objectName": "ChangePassword",
+                    "objectETag": "5cc0648b-1b61-4eed-97a5-b5c412c9365a"
+                },
+                {
+                    "objectId": "2434",
+                    "objectName": "DeleteDevice",
+                    "objectETag": "ef5084fa-662f-4bd5-bb50-ea900a061db0"
+                },
+                {
+                    "objectId": "2435",
+                    "objectName": "DeviceRegistrationPolling",
+                    "objectETag": "b8ff0c99-a627-4f41-a609-1abf29064160"
+                },
+                {
+                    "objectId": "2436",
+                    "objectName": "FIDORegistration",
+                    "objectETag": "5482325b-e25b-4b89-863c-b9da921f06a3"
+                },
+                {
+                    "objectId": "2437",
+                    "objectName": "PasswordPolicy",
+                    "objectETag": "4c283f87-aea2-4bbe-9d4d-ff46dc9a7a87"
+                },
+                {
+                    "objectId": "2438",
+                    "objectName": "RegisterDevice",
+                    "objectETag": "9e2e5d30-578a-4fd5-b589-826e94db6216"
+                },
+                {
+                    "objectId": "2439",
+                    "objectName": "SearchDevices",
+                    "objectETag": "8732ee27-5c64-4ca6-b7e8-6be3288b11bf"
+                },
+                {
+                    "objectId": "2440",
+                    "objectName": "UpdateDeviceName",
+                    "objectETag": "f12e14de-8289-473e-be39-fd79827f1882"
+                },
+                {
+                    "objectId": "2441",
+                    "objectName": "UpdateDeviceStatus",
+                    "objectETag": "b8633bf5-10d0-4a66-9749-fcabe88ee5ee"
+                },
+                {
+                    "objectId": "2442",
+                    "objectName": "UpdateUserAttributes",
+                    "objectETag": "f8c77128-51ef-4266-8309-f13f7db0ac62"
+                },
+                {
+                    "objectId": "2443",
+                    "objectName": "authenticatorSelection",
+                    "objectETag": "8a1bef81-3de1-4b2d-9fa1-f15fe6b2c31e"
+                },
+                {
+                    "objectId": "2444",
+                    "objectName": "getPINExpiryAge",
+                    "objectETag": "d448838d-375a-4abe-be25-2fa6df77fdf5"
+                },
+                {
+                    "objectId": "2445",
+                    "objectName": "pubKeyCredParams",
+                    "objectETag": "b5c19068-8d67-4678-889c-7f509b09cc71"
+                },
+                {
+                    "objectId": "2446",
+                    "objectName": "publicKeyCredentialOptions",
+                    "objectETag": "6bd0b98a-7c23-4305-be3c-ef7479dc1055"
+                },
+                {
+                    "objectId": "2447",
+                    "objectName": "rp",
+                    "objectETag": "75207771-6684-4877-a6b8-9b881de52657"
+                },
+                {
+                    "objectId": "2448",
+                    "objectName": "user",
+                    "objectETag": "3b9280b6-4ef3-4386-b148-08272effc31f"
+                },
+                {
+                    "objectId": "3147",
+                    "objectName": "ValidatePassword",
+                    "objectETag": "636b6998-83b2-4eb0-b0f8-33f1f1e0008e"
+                },
+                {
+                    "objectId": "3154",
+                    "objectName": "ValidateSecureCode",
+                    "objectETag": "283b59d0-da58-49ff-a535-7786d04a87ec"
+                },
+                {
+                    "objectId": "7073",
+                    "objectName": "GetUserAttributes",
+                    "objectETag": "eec11ba6-7cd9-4a50-b95d-4d0ce6c94b7d"
+                },
+                {
+                    "objectId": "7088",
+                    "objectName": "SearchUserAttributes",
+                    "objectETag": "041c0f05-79bd-459a-b18d-8bf7bab5e881"
+                }
+            ]
+        }
+    ],
+    "appInfo": {
+        "serviceDocEtag": "000001987A075E40"
+    }
+}

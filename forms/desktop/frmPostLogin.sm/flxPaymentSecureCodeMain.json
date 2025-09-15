@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "148dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "scdf6338c3e748419b75a847c836c215",
+    "_top_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "44%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxSecureCodeHeader",
+        "flxSecureCodeMain",
+        "lblSecureCodePayment",
+        "flxTbxSecureCode",
+        "flxSecureCodeButtons",
+        "lblSecureCodeError"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxPaymentSecureCodeMain",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j4df451dd6964ce6b3d4c5b15c6acdf4",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxPaymentSecureCode",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,204 @@
+{
+    "classname": "transactionSigning",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "ga638be31eb1426f81bd6588ecc9ce35",
+                    "paramList": [],
+                    "propertyKey": "initiate",
+                    "pw": {
+                        "displayName": "initiate",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "g7e1318910f14f57b45d765e47966148",
+                    "paramList": [],
+                    "propertyKey": "changeTSMode",
+                    "pw": {
+                        "displayName": "changeTSMode",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "hc2e6feff36c4cb1ab38d735abf56e44",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "showLoading",
+                    "pw": {
+                        "displayName": "showLoading",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "he471b67ba9f4ff8a1d0653842fe1031",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "dismissLoading",
+                    "pw": {
+                        "displayName": "dismissLoading",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "e5bb8b4b89e44e9b9158da6095fdcae7",
+                    "paramList": [],
+                    "propertyIndex": 3,
+                    "propertyKey": "onTSSuccess",
+                    "pw": {
+                        "displayName": "onTSSuccess",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "SyamTest1",
+                    "group": "General",
+                    "kuid": "e1a30dba0d0647c89ab4504ee6e67226",
+                    "originalPropertyKey": "username",
+                    "propertyIndex": 1,
+                    "propertyKey": "username",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "username",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "Sending amount transfers",
+                    "group": "General",
+                    "kuid": "d1ed16090dd540a6a1e515fc72fe6b19",
+                    "originalPropertyKey": "tds",
+                    "propertyIndex": 2,
+                    "propertyKey": "tds",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "tds",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "string",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": false,
+                    "group": "General",
+                    "kuid": "jebece15550d473abaf87454d64154e9",
+                    "originalPropertyKey": "isRMSEnabled",
+                    "propertyIndex": 3,
+                    "propertyKey": "isRMSEnabled",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "isRMSEnabled",
+                        "uiRepresentation": "Label-Radiobuttongroup"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "boolean",
+                    "value": "true/false"
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": 35,
+                    "group": "General",
+                    "kuid": "e5cad55fd7bc4f6c93ee4e7e7e24317b",
+                    "originalPropertyKey": "thresholdAmount",
+                    "propertyIndex": 4,
+                    "propertyKey": "thresholdAmount",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "thresholdAmount",
+                        "type": "integer",
+                        "uiRepresentation": "Label-Textbox",
+                        "validationData": "^(\\+|-)?\\d+$"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "integer",
+                    "value": ""
+                },
+                {
+                    "access": "Write",
+                    "defaultValue": "EUR",
+                    "group": "General",
+                    "kuid": "ff5c7a1385284f29aeeb77b094ef6037",
+                    "originalPropertyKey": "currency",
+                    "propertyIndex": 5,
+                    "propertyKey": "currency",
+                    "pw": {
+                        "dependencyConditions": {},
+                        "displayName": "currency",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "a4c6316cb0aa4c509b6bb332eb379120",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "iccdb012bf4a47aaa7ed70868e65f097",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 8,
+                    "propertyKey": "skin1",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Normal",
+                        "isHiddenInTool": false,
+                        "srcWidget": "flxPushDevices",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "abf79cfb98dc49f7bd47bb2fe7dfcf02"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.hid",
+    "version": "1.0.0"
+}

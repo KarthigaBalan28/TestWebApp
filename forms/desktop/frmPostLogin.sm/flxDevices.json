@@ -1,0 +1,70 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa1148d9090f452a889c8e9738a56b26",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "lblMsg",
+        "lblSelectPushDevices",
+        "segPushDevices",
+        "flxPushApproveBtn"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxDevices",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e6efa4bdd6d84bd2b7025102e73fb2dd",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxPaymentPushDevices",
+    "pf": "frmPostLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,20 @@
+{
+    "AS_UWI_i77f701a8a08495bbc3446289cfb06dd": {
+        "id": "AS_UWI_i77f701a8a08495bbc3446289cfb06dd",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a62a84b0a1134951b1eb478d2486b954"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_g97e64ba1b71490185151980324438ce",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Failure\")",
+            "parentId": null
+        }]
+    }
+}

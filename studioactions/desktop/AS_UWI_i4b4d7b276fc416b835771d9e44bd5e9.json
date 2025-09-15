@@ -1,0 +1,28 @@
+{
+    "AS_UWI_i4b4d7b276fc416b835771d9e44bd5e9": {
+        "id": "AS_UWI_i4b4d7b276fc416b835771d9e44bd5e9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "userprofileJSON",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "j39ef66f15714bf2ae2872f076e99dda",
+            "name": "frmOnBoarding"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ff2645a5311b4f9db8f8b39e765fa942",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onLogin",
+            "display": "onLogin",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

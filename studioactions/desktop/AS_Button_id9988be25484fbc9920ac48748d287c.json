@@ -1,0 +1,28 @@
+{
+    "AS_Button_id9988be25484fbc9920ac48748d287c": {
+        "id": "AS_Button_id9988be25484fbc9920ac48748d287c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPostLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b295046e510941938ac108e424807d78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__e60e166f1a8449e68322acbf8b2273c1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onCancelButtonClick",
+            "display": "onCancelButtonClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

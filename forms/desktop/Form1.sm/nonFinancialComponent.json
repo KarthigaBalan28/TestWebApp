@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s21e66de00fa4cc68070da9dff310cc2",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "MFA": "OTP_SMS",
+        "ide_analyseActionFailure": "AS_UWI_a74c01e83f954c3d8fce26ee4ce43284",
+        "ide_analyzeActionFailure": "AS_UWI_abd375c2c47445b68efd76590a275a68",
+        "ide_analyzeActionSuccess": "AS_UWI_e88005613f014284a0f874aa6e426384",
+        "ide_updateActionInRMSFailure": "AS_UWI_i77f701a8a08495bbc3446289cfb06dd",
+        "ide_updateActionInRMSSuccess": "AS_UWI_b207de8427c64415a5a578df687267f1"
+    },
+    "id": "nonFinancialComponent",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d39e54a8171945ba96444daf7e573afe",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "Form1",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "sourceUserWidget": "f07c751b2246424b9f006f4ab5605fb5",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

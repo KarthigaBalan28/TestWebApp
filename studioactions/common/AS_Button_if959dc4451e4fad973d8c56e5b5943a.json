@@ -1,0 +1,26 @@
+{
+    "AS_Button_if959dc4451e4fad973d8c56e5b5943a": {
+        "id": "AS_Button_if959dc4451e4fad973d8c56e5b5943a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "u81573b1647e4706b3d9702f3427b99b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_dac4bdd3428c46c5a85865bf793a7f61",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "cancelUpdateEmailOnClick",
+            "display": "cancelUpdateEmailOnClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

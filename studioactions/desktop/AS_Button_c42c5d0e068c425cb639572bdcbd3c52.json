@@ -1,0 +1,28 @@
+{
+    "AS_Button_c42c5d0e068c425cb639572bdcbd3c52": {
+        "id": "AS_Button_c42c5d0e068c425cb639572bdcbd3c52",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPostLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b295046e510941938ac108e424807d78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__cd620b764189434794edfc41110e98de",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "deleteFailureClose",
+            "display": "deleteFailureClose",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

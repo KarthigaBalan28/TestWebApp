@@ -1,0 +1,26 @@
+{
+    "AS_Button_a3ed5e5b43324b00ba312f7cdd2fc4ed": {
+        "id": "AS_Button_a3ed5e5b43324b00ba312f7cdd2fc4ed",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "u81573b1647e4706b3d9702f3427b99b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_jf8c9e9c7cda4b59b3fde7bb74e5d27d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "updateEmail_onClick",
+            "display": "updateEmail_onClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

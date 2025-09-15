@@ -1,0 +1,100 @@
+{
+    "HEAD": "wc695e44ba634970b26c266f0b08fb66",
+    "w15aa16e4064441e81d4cc1e97582b4f": {
+        "extension": "html",
+        "kuid": "w15aa16e4064441e81d4cc1e97582b4f",
+        "name": "richtextViewer.html",
+        "parent": "wc695e44ba634970b26c266f0b08fb66",
+        "type": "F"
+    },
+    "w462305916e1420ebf93d3eb478bfddc": {
+        "extension": "html",
+        "kuid": "w462305916e1420ebf93d3eb478bfddc",
+        "name": "index.html",
+        "parent": "w63ef4bceaf446389ac075a802ddbdaf",
+        "type": "F"
+    },
+    "w63ef4bceaf446389ac075a802ddbdaf": {
+        "children": [
+            "w462305916e1420ebf93d3eb478bfddc",
+            "wa2051a7e9924fa28d1badb781b45932",
+            "wa686ede6ba5495eb036bdc6aa8acd38",
+            "wf4295fe4e6d40d4a5516bb795308a1c"
+        ],
+        "kuid": "w63ef4bceaf446389ac075a802ddbdaf",
+        "name": "QRCodeGenerator",
+        "parent": "wc695e44ba634970b26c266f0b08fb66",
+        "type": "D"
+    },
+    "w6b332e0682a47f083e0f72cad71472f": {
+        "extension": "html",
+        "kuid": "w6b332e0682a47f083e0f72cad71472f",
+        "name": "qrenc3.html",
+        "parent": "wc695e44ba634970b26c266f0b08fb66",
+        "type": "F"
+    },
+    "w6c4edac872d459887d3655bb42f4c5f": {
+        "extension": "js",
+        "kuid": "w6c4edac872d459887d3655bb42f4c5f",
+        "name": "qrcode.js",
+        "parent": "wf8d569c42954f05955d866e127d8025",
+        "type": "F"
+    },
+    "w71a89bdc7a44415abb848ff092ec1c5": {
+        "extension": "html",
+        "kuid": "w71a89bdc7a44415abb848ff092ec1c5",
+        "name": "qrcodeIndex.html",
+        "parent": "wf8d569c42954f05955d866e127d8025",
+        "type": "F"
+    },
+    "wa2051a7e9924fa28d1badb781b45932": {
+        "extension": "js",
+        "kuid": "wa2051a7e9924fa28d1badb781b45932",
+        "name": "jquery.min.js",
+        "parent": "w63ef4bceaf446389ac075a802ddbdaf",
+        "type": "F"
+    },
+    "wa686ede6ba5495eb036bdc6aa8acd38": {
+        "extension": "js",
+        "kuid": "wa686ede6ba5495eb036bdc6aa8acd38",
+        "name": "qrcode.js",
+        "parent": "w63ef4bceaf446389ac075a802ddbdaf",
+        "type": "F"
+    },
+    "wc695e44ba634970b26c266f0b08fb66": {
+        "children": [
+            "wf8d569c42954f05955d866e127d8025",
+            "w6b332e0682a47f083e0f72cad71472f",
+            "w63ef4bceaf446389ac075a802ddbdaf",
+            "w15aa16e4064441e81d4cc1e97582b4f"
+        ],
+        "kuid": "wc695e44ba634970b26c266f0b08fb66",
+        "name": "localfiles",
+        "type": "L"
+    },
+    "wdf26d8686604a8d8a387f7e963cd676": {
+        "extension": "js",
+        "kuid": "wdf26d8686604a8d8a387f7e963cd676",
+        "name": "jquery.min.js",
+        "parent": "wf8d569c42954f05955d866e127d8025",
+        "type": "F"
+    },
+    "wf4295fe4e6d40d4a5516bb795308a1c": {
+        "extension": "html",
+        "kuid": "wf4295fe4e6d40d4a5516bb795308a1c",
+        "name": "setQRCodeProperties.html",
+        "parent": "w63ef4bceaf446389ac075a802ddbdaf",
+        "type": "F"
+    },
+    "wf8d569c42954f05955d866e127d8025": {
+        "children": [
+            "wdf26d8686604a8d8a387f7e963cd676",
+            "w6c4edac872d459887d3655bb42f4c5f",
+            "w71a89bdc7a44415abb848ff092ec1c5"
+        ],
+        "kuid": "wf8d569c42954f05955d866e127d8025",
+        "name": "konympQRCode",
+        "parent": "wc695e44ba634970b26c266f0b08fb66",
+        "type": "D"
+    }
+}
